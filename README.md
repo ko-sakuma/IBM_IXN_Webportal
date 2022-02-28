@@ -2,4 +2,4 @@
 
 This is a repo for IXN Marketing Portals.
 
-Due to rapid prototyping requirement, most front-end code is written using XD and Dreamweaver. 
+Due to rapid prototyping requirement, most front-end code is written using XD and Dreamweaver, allowing us to focus more on writing the back-end logic.
